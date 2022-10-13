@@ -4,7 +4,7 @@
 
 <div>
   <h3>👋 Hello! Welcome to my Github profile.</h2>
-  <h3>My name is Nicolas</h2>
+  <h3>My name is Leonardo Garcia</h2>
 </div>
 
 - 🔭 I am currently working on building a portfolio
