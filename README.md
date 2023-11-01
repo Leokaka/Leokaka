@@ -41,7 +41,8 @@
 <div align="center">
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&layout=compact&langs_count=10&theme=dark&hide_title=true)](https://github.com/NicolasSSantos/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&layout=compact&langs_count=10&theme=dark&hide_title=true)]
+(https://github.com/Leokaka)
 </div>
 
 
