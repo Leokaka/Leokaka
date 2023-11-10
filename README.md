@@ -1,4 +1,4 @@
-</p align="center">
+q</p align="center">
   <img align="right" height="200" src="https://media.giphy.com/media/jdOm0IddQuJP2/giphy.gif" />
 <p align="center">
 
@@ -41,8 +41,7 @@
 <div align="center">
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSSantos&layout=compact&langs_count=10&theme=dark&hide_title=true)]
-(https://github.com/Leokaka)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leokaka&layout=compact&langs_count=10&theme=dark&hide_title=true)]
 </div>
 
 
